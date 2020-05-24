@@ -1,0 +1,4 @@
+gym
+-e git+https://gitlab.com/awarelab/gym-sokoban.git#egg=gym-sokoban
+Pillow
+graphviz

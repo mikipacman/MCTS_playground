@@ -1,0 +1,4 @@
+graph.gv.pdf
+venv/
+.idea/
+__pycache__/
